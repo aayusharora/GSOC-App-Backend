@@ -1,5 +1,5 @@
 {
-  "DB": "userinfo",
+  "DB": "useri",
   "USER": "aayusharora",
   "PASSWORD": "1234",
   "DIALECT": "postgres",

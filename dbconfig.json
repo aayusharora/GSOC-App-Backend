@@ -1,7 +1,7 @@
 // For Heroku Deploy
 {
-  "DB": "userinfo",
-  "USER": "aayusharora",
+  "DB": "gsocdb",
+  "USER": "gsocbackend",
   "PASSWORD": "password",
   "DIALECT": "postgres",
   "HOST": "localhost"
