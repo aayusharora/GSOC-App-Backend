@@ -14,7 +14,7 @@ npm install
 ```
 ### Configure the Database 
 
-> Install Postgres or mysql, and use the following commands to setup the database and new role.
+> Install Postgres, and use the following commands to setup the database and new role.
 ```
 create database gsocdb
 
