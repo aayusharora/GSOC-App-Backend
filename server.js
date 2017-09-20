@@ -5,7 +5,7 @@ const api_v1 = require('./api_v1');
 
 var app = express();
 
-var PORT = 5000 || process.env.PORT;
+var PORT =  process.env.port || 5000 ;
 
 app.get('/', function(req,res) {
 
