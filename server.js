@@ -14,6 +14,6 @@ app.use(bp.urlencoded({extended : true}));
 app.use('/api_v1',api_v1);
 
 app.listen( process.env.PORT || 5000 , function() {
-    console.log("Serving running on Port " + PORT);
+    console.log("Serving running on Port ");
 });
 
