@@ -1,0 +1,9 @@
+// For Heroku Deploy
+{
+  "DB": "userinfo",
+  "USER": "aayusharora",
+  "PASSWORD": "password",
+  "DIALECT": "postgres",
+  "HOST": "localhost"
+}
+
