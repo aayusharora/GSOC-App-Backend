@@ -1,4 +1,4 @@
 {
-  "name": "CB Schedulecture",
+  "name": "gsoc",
   "addons": ["heroku-postgresql:hobby-dev"]
 }
